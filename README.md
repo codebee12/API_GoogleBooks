@@ -1,5 +1,5 @@
 # API_GoogleBooks
-This repo contains simple code and instruction on how to use Google Books API. 
+This repo contains simple code and instruction on how to use Google Books API using Python. 
 
 Pre-requisites:
 1. Should have Python3 on system.
